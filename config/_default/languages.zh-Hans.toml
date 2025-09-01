@@ -18,6 +18,6 @@ title = "周尔复的博客"
   headline = "已所不欲，勿施于人"
   bio = "已所不欲，勿施于人。"
   links = [
-    { x-twitter = "https://x.com/cholf5" },
+    { twitter = "https://x.com/cholf5" },
     { github = "https://github.com/cholf5" },
   ]

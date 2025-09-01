@@ -18,6 +18,6 @@ title = "Cholf's Blog"
   headline = "Make Fun Games!"
   bio = "Just because you can, doesn't mean you should."
   links = [
-    { x-twitter = "https://x.com/cholf5" },
+    { twitter = "https://x.com/cholf5" },
     { github = "https://github.com/cholf5" },
   ]
