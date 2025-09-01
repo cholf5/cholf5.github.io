@@ -11,23 +11,22 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "文档"
-  pageRef = "docs"
+  name = "博客"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "示例"
-  pageRef = "samples"
+  name = "推特"
+  url = "https://x.com/cholf5"
   weight = 20
-
-[[main]]
-  name = "用户"
-  pageRef = "users"
-  weight = 30
+  [main.params]
+    icon = "twitter"
+    showName = false
+    target = "_blank"
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/jpanther/congo"
+  url = "https://github.com/cholf5/cholf5.github.io"
   weight = 40
   [main.params]
     icon = "github"

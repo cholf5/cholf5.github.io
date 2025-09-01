@@ -1,22 +1,22 @@
-languageCode = "en-AU"
-languageName = "English (Australia)"
+languageCode = "en"
+languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
 title = "Cholf's Blog"
-copyright = "&copy; 2024 Congo contributors"
+#copyright = "&copy; 2024 Congo contributors"
 
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["samples"]
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  mainSections = ["posts"]
+  description = "Record what Cholf saw, heard, thought, and life journey. All mortals will die, and most people will not leave any traces. But I, an ordinary person, hope to leave some traces through my writing."
 
 [params.author]
   name = "Cholf Nixon"
   image = "img/author.jpg"
   headline = "Not your ordinary theme!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  bio = "Just because you can, doesn't mean you should."
   links = [
     { x-twitter = "https://x.com/cholf5" },
     { github = "https://github.com/cholf5" },

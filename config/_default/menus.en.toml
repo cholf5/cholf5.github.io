@@ -11,23 +11,22 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "Blog"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Samples"
-  pageRef = "samples"
+  name = "Twitter"
+  url = "https://x.com/cholf5"
   weight = 20
-
-[[main]]
-  name = "Users"
-  pageRef = "users"
-  weight = 30
+  [main.params]
+    icon = "twitter"
+    showName = false
+    target = "_blank"
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/jpanther/congo"
+  url = "https://github.com/cholf5/cholf5.github.io"
   weight = 40
   [main.params]
     icon = "github"
