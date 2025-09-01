@@ -15,7 +15,7 @@ title = "周尔复的博客"
 [params.author]
   name = "周尔复"
   image = "img/author.jpg"
-  headline = "非凡的主题！"
+  headline = "已所不欲，勿施于人"
   bio = "已所不欲，勿施于人。"
   links = [
     { x-twitter = "https://x.com/cholf5" },

@@ -37,3 +37,5 @@ summaryLength = 0
 [services]
   [services.x]
     disableInlineCSS = true
+
+googleAnalytics = "G-MEWXJB3X55"

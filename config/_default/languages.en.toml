@@ -13,9 +13,9 @@ title = "Cholf's Blog"
   description = "Record what Cholf saw, heard, thought, and life journey. All mortals will die, and most people will not leave any traces. But I, an ordinary person, hope to leave some traces through my writing."
 
 [params.author]
-  name = "Cholf Nixon"
+  name = "Cholf"
   image = "img/author.jpg"
-  headline = "Not your ordinary theme!"
+  headline = "Make Fun Games!"
   bio = "Just because you can, doesn't mean you should."
   links = [
     { x-twitter = "https://x.com/cholf5" },
