@@ -38,7 +38,7 @@ hasCJKLanguage = true
     privacyEnhanced = true
 
 [services]
+  [services.googleAnalytics]
+    id = 'G-MEWXJB3X55'
   [services.x]
     disableInlineCSS = true
-
-googleAnalytics = "G-MEWXJB3X55"
