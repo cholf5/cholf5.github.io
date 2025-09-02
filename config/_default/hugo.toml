@@ -6,6 +6,11 @@ baseURL = "https://cholf5.com/"
 theme = "congo"
 defaultContentLanguage = "zh-Hans"
 
+# Force canonical URLs to use HTTPS
+canonifyURLs = true
+# Use relative URLs for better flexibility
+relativeURLs = false
+
 # When enabled, a robots.txt file will be created in the site root that allows
 # search engines to crawl the entire site. If you prefer to provide your own
 # pre-made robots.txt, set to false and place your file in the static directory.
