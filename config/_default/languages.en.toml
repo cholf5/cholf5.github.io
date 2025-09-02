@@ -14,7 +14,7 @@ title = "Cholf's Blog"
 
 [params.author]
   name = "Cholf"
-  image = "img/author.jpg"
+  image = "img/author.png"
   headline = "Make Fun Games!"
   bio = "Just because you can, doesn't mean you should."
   links = [

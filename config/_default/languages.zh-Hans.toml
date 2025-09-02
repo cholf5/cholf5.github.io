@@ -10,11 +10,11 @@ title = "周尔复的博客"
   dateFormat = "2006年1月2日"
 
   mainSections = ["posts"]
-  description = "记录周尔复的所见所闻、所思所想，以及人生历程。"
+  description = "记录周尔复的所见所闻、所思所想和人生历程。"
 
 [params.author]
   name = "周尔复"
-  image = "img/author.jpg"
+  image = "img/author.png"
   headline = "已所不欲，勿施于人"
   bio = "已所不欲，勿施于人。"
   links = [
