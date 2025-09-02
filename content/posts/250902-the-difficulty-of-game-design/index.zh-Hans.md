@@ -2,6 +2,7 @@
 author: '周尔复'
 title: '游戏设计之难 - 读云风 BLOG 有感'
 date: '2025-09-02'
+summary: "游戏设计所做的是整个游戏开发周期里最困难的那部分工作，通过发挥人脑的创造力，凭空想象出一些好玩的规则，然后交给执行岗位去实现出来。"
 tags:
 - game-design
 - game-development

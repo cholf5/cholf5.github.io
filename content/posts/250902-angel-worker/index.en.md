@@ -2,6 +2,7 @@
 author: 'Cholf'
 title: 'Angel Worker'
 date: '2025-09-02'
+summary: "We've all heard of angel investors, who invest in projects early on and earn high returns when they succeed. Angel workers are similar; they join companies early on, but while angel investors invest money, they invest in people."
 tags:
 - misc
 ---

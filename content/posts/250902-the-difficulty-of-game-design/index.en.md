@@ -2,6 +2,7 @@
 author: 'Cholf'
 title: 'The Difficulty of Game Design'
 date: '2025-09-02'
+summary: "Game design is the most difficult part of the entire game development cycle. It uses the creativity of the human brain to imagine some interesting rules out of thin air, and then hand them over to the execution position to implement them."
 tags:
 - game-design
 - game-development

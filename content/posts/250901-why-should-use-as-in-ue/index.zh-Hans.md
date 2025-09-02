@@ -2,6 +2,7 @@
 author: '周尔复'
 title: '为什么应该在虚幻引擎中使用 Angelscript'
 date: '2025-09-01'
+summary: "我最近在学习虚幻引擎(UE)，并且尝试用它来做一些小项目。UE 是一个非常强大且功能完备的游戏引擎，但它有两个主要的痛点让我望而却步：C++ 和蓝图。"
 tags:
 - angelscript
 - unreal-engine

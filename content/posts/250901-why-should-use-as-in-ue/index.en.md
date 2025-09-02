@@ -2,6 +2,7 @@
 author: 'Cholf'
 title: 'Why you should use Angelscript in Unreal Engine'
 date: '2025-09-01'
+summary: "I've recently been learning UE and trying to use it for some small projects. UE is a very powerful engine, but it has two major pain points that hold me back: C++ and Blueprints."
 tags:
 - angelscript
 - unreal-engine
