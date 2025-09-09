@@ -6,6 +6,7 @@ summary: "游戏设计所做的是整个游戏开发周期里最困难的那部�
 tags:
 - game-design
 - game-development
+image: "/posts/250902-the-difficulty-of-game-design/feature.webp"
 ---
 
 在看完云风的 [一个卡牌构筑游戏的构想](https://blog.codingnow.com/2024/12/deckbuilding_game.html#more) 后，不得不说游戏设计是比写代码要困难得多的事。因为写代码是能立即看到成果的，写个 1+1，计算机就会给你个2，程序员无非是操纵计算机把人的想法实现出来。而这个想法从何而来？是从人脑来的。在游戏开发中，就是策划的大脑。

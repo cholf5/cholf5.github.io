@@ -80,3 +80,9 @@ fingerprintAlgorithm = "sha256"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+# Social media and images configuration
+[social]
+  # Twitter username for Twitter Cards (without the @)
+  twitter = "cholf5"
+

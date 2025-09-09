@@ -1,6 +1,7 @@
 ---
 title: "欢迎来到周尔复的博客！:tada:"
 description: "很高兴认识你！"
+image: "/assets/img/default-og-image.png"
 ---
 
 {{< lead >}}

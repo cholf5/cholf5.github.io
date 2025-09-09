@@ -47,3 +47,6 @@ hasCJKLanguage = true
     id = 'G-MEWXJB3X55'
   [services.x]
     disableInlineCSS = true
+
+# Default image for Open Graph and Twitter Card when no article image is available
+images = ["/assets/img/default-og-image.png"]

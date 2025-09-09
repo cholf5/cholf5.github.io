@@ -2,7 +2,7 @@
 author: '周尔复'
 title: '推特分享卡片没图？可能是 robots.txt 阻止了抓取'
 date: '2025-09-08'
-summary: "昨天晚上突然发现 [YearProgress.org](https://www.yearprogress.org) 在推特上分享时，卡片里的预览图没了。这可要了亲命了，因为这个网站创建的初衷就是为了在推特上分享时有能生成进度条预览的。这里出问题，这个网站的作用就几乎等于零了。"
+summary: "昨晚发现 [YearProgress.org](https://www.yearprogress.org) 在X上分享时，卡片的预览图没了。这网站的初衷就是在X上生成进度条预览，这是致命问题。"
 tags:
 - twitter
 - twitter-card
@@ -10,6 +10,7 @@ tags:
 - open-graph
 - web-development
 - web-crawling
+image: "/posts/250908-twitter-card-image-blocked-by-robots.txt/feature.webp"
 ---
 
 ## 问题
