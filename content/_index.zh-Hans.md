@@ -15,8 +15,8 @@ Hi there!
 | 项目 | 链接 | 完成日期 |
 |---------|------|----------|
 | 年度进度条 | https://YearProgress.org | 2025-09-15 |
+| 《爱上 LÖVE》中文版 | https://github.com/cholf5/how-to-love | 2025-09-25 |
 | 密码生成器 | https://PasswordGenerators.net | 2025-09-27 |
-| 《爱上 LÖVE》中文版 | https://github.com/cholf5/how-to-love | 2023-12-31 |
 | 梗图铺 | https://gengtupu.vercel.app | 2026-06-15 |
 
 
